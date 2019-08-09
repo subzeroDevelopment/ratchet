@@ -6,7 +6,6 @@ require (
 	github.com/aws/aws-sdk-go v1.1.31
 	github.com/dailyburn/bigquery v0.0.0-20160826205329-d6a62be95f73
 	github.com/dailyburn/google-api-go-client-bigquery v0.0.0-20150806134645-5e46123b7921
-	github.com/dailyburn/ratchet v2.0.4+incompatible
 	github.com/go-ini/ini v1.11.0
 	github.com/jlaffaye/ftp v0.0.0-20160229215238-025815df6403
 	github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8

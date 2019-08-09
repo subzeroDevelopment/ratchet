@@ -3,8 +3,8 @@ package processors
 import (
 	"io/ioutil"
 
-	"github.com/dailyburn/ratchet/data"
-	"github.com/dailyburn/ratchet/util"
+	"github.com/subzeroDevelopment/ratchet/data"
+	"github.com/subzeroDevelopment/ratchet/util"
 )
 
 // FileReader opens and reads the contents of the given filename.
